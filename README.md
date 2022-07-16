@@ -304,3 +304,17 @@
 - Value is duration.
 - Lethal hits multiplies duration by 2.
 - Applicable to headshotting weapons.
+
+## `Has amplifier`
+### `ID: 10054`
+- Value is addititve
+- Does nothing only used for checking if player is using amplifier
+
+
+## `Extinguish on hit`
+### `ID: 10055`
+- Value is addititve
+
+## `Mult afterburn heal`
+### `ID: 10056`
+- Value is addititve
