@@ -1,6 +1,6 @@
 # `Attributes for Nosoops Framework:`
 
-### `gain crit type on headshot`
+### `gain crit type on headshot` `(deprecated)`
 - A weapon with this attribute will gain a set CritType for x amount of seconds.
 - Attribute has the following varstrings:
 	- `gain_amount` determins the amount of seconds gained e.g. 2.0
@@ -317,4 +317,24 @@
 
 ## `Mult afterburn heal`
 ### `ID: 10056`
+- Value is percentage
+
+## `Mult player movespeed while carrying flag`
+### `ID: 10057`
+- Value is percentage
+
+## `Crit Type on any headshot`
+### `ID: 10058`
 - Value is addititve
+- Value is CritType (1 MiniCrits, 2 Full Crits)
+- Requires `10059 Crit Type on any headshot duration`
+
+## `Crit Type on any headshot duration`
+### `ID: 10059`
+- Value is addititve
+- Requires `10058 Crit Type on any headshot`
+
+## `Crit Type on any headshot duration limit`
+### `ID: 10060`
+- Value is addititve
+- Requires `10058 Crit Type on any headshot`
