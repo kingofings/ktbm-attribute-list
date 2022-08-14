@@ -338,3 +338,27 @@
 ### `ID: 10060`
 - Value is addititve
 - Requires `10058 Crit Type on any headshot`
+
+## `lunchbox mult throw velocity`
+### `ID: 10061`
+- Value is percentage
+
+## `no move penalty while hauling`
+### `ID: 10062`
+- Value is additive
+
+## `dmg vuln while hauling`
+### `ID: 10063`
+- Value is percentage
+
+## `mult dmg ubercharge scale`
+### `ID: 10064`
+- Value is additive
+
+## `mult damage vs tagged player`
+### `ID: 10065`
+- Value is percentage
+
+## `universal upgrade cost`
+### `ID: 10066`
+- Value is additive
