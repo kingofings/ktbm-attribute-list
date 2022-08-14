@@ -8,7 +8,7 @@
 	- `crit_type` What CritType should be used when it is active: 1 for Mini-Crits, 2 for full Crits.
 - Applicable to damage dealing weapons. (cannot be used on 2 weapons on the same loadout!!! (for now!))
 
-### `mod crit type on reflect` (deprecated)
+### `mod crit type on reflect` `(deprecated)`
 - A weapon that has this attribute will have the specified crit type applied on reflecting projectiles.
 - Attribute has the following varstring:
 	- `crit_type` What CritType should be used when it is active: 1 for Mini-Crits, 2 for full Crits (if set below 2 already critical projectiles will still crit or headshot(huntsman)).
