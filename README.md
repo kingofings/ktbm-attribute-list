@@ -362,3 +362,25 @@
 ## `universal upgrade cost`
 ### `ID: 10066`
 - Value is additive
+
+## `backattack flame minicrits dotproduct`
+### `ID: 10067`
+- Value is additive dot product
+
+## `custom flame rampup`
+### `ID: 10068`
+- Value is additive time until rampup resets
+- Ramp up scale controlled by ktbm_flame_rampup_scale
+
+## `projectile penetration negative`
+### `ID: 10069`
+- Value is additive
+- Injection of native attribute as negative variant for mvm
+
+## `is bison`
+### `ID: 10070`
+- Value is additive
+
+## `revenge crit on crit kill`
+### `ID: 10071`
+- Value is additive
