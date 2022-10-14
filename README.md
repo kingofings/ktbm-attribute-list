@@ -380,6 +380,7 @@
 ## `is bison`
 ### `ID: 10070`
 - Value is additive
+- Does nothing only used to check if player is using bison
 
 ## `revenge crit on crit kill`
 ### `ID: 10071`
