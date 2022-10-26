@@ -29,7 +29,7 @@
 	- `drain_overheal` Bool, 1 = drain 0 = do nothing, this also disables `health_lethal_headshot`. default 1
 - Applicable to Sniperrifles
 
-### `mod backstab health absorb`
+### `mod backstab health absorb` (deprecated)
 - Allows for changing bounds of the native `sanguisuge` attribute (It is adviced to disable the sanguisuge attribute so it does not interfere).
 - Attribute has the following varstrings:
 	- `min_gain` Int Value, Minimum Health gain on a backstab if victim has less than this amount of health, default 70
