@@ -385,3 +385,12 @@
 ## `revenge crit on crit kill`
 ### `ID: 10071`
 - Value is additive
+
+## `mult movespeed resource level delay`
+### `ID: 10072`
+- Value is percentage
+- Delay controlled by : `ktbm_mult_movespeed_resource_delay`
+
+## `mult dmg non critical`
+### `ID: 10073`
+- Value is percentage
