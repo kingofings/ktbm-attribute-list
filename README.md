@@ -391,6 +391,6 @@
 - Value is percentage
 - Delay controlled by : `ktbm_mult_movespeed_resource_delay`
 
-## `mult dmg non critical`
+## `remove speed boost unrev`
 ### `ID: 10073`
-- Value is percentage
+- Value is additive
