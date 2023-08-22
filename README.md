@@ -20,7 +20,7 @@
 	- `0 = disabled`, `1 = enabled`
 - Applicable to Flamethrowers
 
-### `custom sniperrifle props`
+### ~~`custom sniperrifle props`~~ unused
 - Changes the core behavior of sniper rifles.
 - Attribute has the following varstrings:
 	- `dmg_headshot` Float value, default 150.0
