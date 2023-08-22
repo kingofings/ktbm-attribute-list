@@ -38,7 +38,7 @@
 
 # `Attributes injected into Item Schema:`
 
-## `On Kill reload Secondary clip`
+## ~~`On Kill reload Secondary clip`~~ unused
 ### `ID: 10001`
 - Value is additive
 
@@ -114,7 +114,7 @@
 ### `ID: 10014`
 - Value is percentage
 
-## `Headshot cooldown`
+## ~~`Headshot cooldown`~~ unused
 ### `ID: 10015`
 - Value is additive
 - Applicable to hitscan
@@ -127,7 +127,7 @@
 ### `ID: 10017`
 - Value is percentage
 
-## `flame density overhaul`
+## ~~`flame density overhaul`~~ unused
 ### `ID: 10018`
 - Amount is damage. Specifying negative damage will increase the damage based on afterburn duration.
 - Value is addititve
@@ -199,7 +199,7 @@
 ### `ID: 10033`
 - Value is addititve
 
-## `Cow mangler charge for SC`
+## ~~`Cow mangler charge for SC`~~ unused
 ### `ID: 10034`
 - Value is additive
 - Applicable to Short Circuit
@@ -218,7 +218,7 @@
 - Value is additive, includes 0.2 Quickscope cooldown makes classic work like normal sniper rifle slowdown while scoped.
 - Applicable to Sniper Rifles.
 
-## `Permanent Health penalty on Holster`
+## ~~`Permanent Health penalty on Holster`~~ unused
 ### `ID: 10038`
 - Value is additive
 
@@ -273,11 +273,11 @@
 - Value is addititve
 - Applicable to revenge weapons
 	
-## `Negative version of effectbar_recharge_rate`
+## ~~`Negative version of effectbar_recharge_rate`~~ unused in pvp
 ### `ID: 10049`
 - Existing native attribute injected as "negative" effect. (For mvm)
 
-## `effect bar recharge rate isolated secondary`
+## ~~`effect bar recharge rate isolated secondary`~~ unused in pvp
 ### `ID: 10050`
 - Does not interfere with existing native attribute
 - Value is inverted percentage
@@ -372,7 +372,7 @@
 - Value is additive time until rampup resets
 - Ramp up scale controlled by ktbm_flame_rampup_scale
 
-## `projectile penetration negative`
+## ~~`projectile penetration negative`~~ unused in pvp
 ### `ID: 10069`
 - Value is additive
 - Injection of native attribute as negative variant for mvm
