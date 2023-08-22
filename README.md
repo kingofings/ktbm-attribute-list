@@ -420,6 +420,6 @@
 
 ## `increase lunchbox drink effect duration`
 ### `ID: 10079`
+### - Requires 2 supporting Memory Patches!
 - Value is additive
-- Requires 2 supporting Memory Patches!
 
