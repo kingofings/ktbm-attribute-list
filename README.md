@@ -394,3 +394,32 @@
 ## `remove speed boost unrev`
 ### `ID: 10073`
 - Value is additive
+
+## `debuff drain while active`
+### `ID: 10074`
+- Value is additive
+
+## `crit type vs burning player club`
+### `ID: 10075`
+- Value is additive
+- Value is CritType (1 MiniCrits, 2 Full Crits)
+
+## `steak penalty`
+### `ID: 10076`
+- Value is additive
+
+## `crit vuln while parachute blast dmg`
+### `ID: 10077`
+- Value is additive
+- Value is CritType (1 MiniCrits, 2 Full Crits)
+
+## `custom critical falloff`
+### `ID: 10078`
+- Value is additive
+- Applicable to Ambassador (cap is hardcoded)
+
+## `increase lunchbox drink effect duration`
+### `ID: 10079`
+- Value is additive
+- Requires 2 supporting Memory Patches!
+
