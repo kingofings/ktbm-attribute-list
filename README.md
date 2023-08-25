@@ -317,7 +317,7 @@
 
 ## `Mult afterburn heal`
 ### `ID: 10056`
-- Value is percentage
+- Value is additive
 
 ## `Mult player movespeed while carrying flag`
 ### `ID: 10057`
