@@ -239,7 +239,7 @@
 ### `ID: 10042`
 - Value is percentage
 - Value of -1.0: Healrate = damage.
-- Duration ConVar: ktbm_m4d_health_minicrits_cap
+- Duration ConVar: `ktbm_m4d_health_minicrits_cap`
 
 ## `effect bar recharge rate increased secondary`
 ### `ID: 10043`
@@ -259,7 +259,7 @@
 - Value is addititve
 - Value is burn time
 - Requires 10047 (Rage: Ignite on Hit Gain Amount")
-- Rage Duration is ConVar (duration in seconds): ktbm_fire_rage_duration
+- Rage Duration is ConVar (duration in seconds): `ktbm_fire_rage_duration`
 
 ## `Rage: Ignite on Hit Gain Amount`
 ### `ID: 10047`
