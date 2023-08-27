@@ -235,10 +235,11 @@
 ### `ID: 10041`
 - Value is inverted percentage
 
-## `Self Marked enemies health gain and minicrits on death mark duration`
+## `Self Marked enemies health minicrits on death`
 ### `ID: 10042`
 - Value is percentage
 - Value of -1.0: Healrate = damage.
+- Duration ConVar: ktbm_m4d_health_minicrits_cap
 
 ## `effect bar recharge rate increased secondary`
 ### `ID: 10043`
