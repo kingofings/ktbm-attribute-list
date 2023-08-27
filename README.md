@@ -419,8 +419,3 @@
 - Value is additive
 - Applicable to Ambassador (cap is hardcoded)
 
-## `increase lunchbox drink effect duration`
-### `ID: 10079`
-- ### Requires 2 supporting Memory Patches!
-- Value is additive
-
