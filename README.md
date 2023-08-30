@@ -417,5 +417,4 @@
 ## `custom critical falloff`
 ### `ID: 10078`
 - Value is additive
-- Applicable to Ambassador (cap is hardcoded)
 
