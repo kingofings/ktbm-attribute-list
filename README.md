@@ -418,3 +418,6 @@
 ### `ID: 10078`
 - Value is additive
 
+## `mult item meter damage`
+### `ID: 10079`
+- Value is percentage
