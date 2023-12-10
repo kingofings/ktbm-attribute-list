@@ -421,3 +421,11 @@
 ## `mult item meter damage`
 ### `ID: 10079`
 - Value is percentage
+
+## `wearable health break rifle`
+### `ID: 10080`
+- Value is percentage
+
+## `wearable health break rifle movespeed`
+### `ID: 10081`
+- Value is percentage
