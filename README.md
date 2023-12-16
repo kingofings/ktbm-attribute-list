@@ -433,3 +433,8 @@
 ## `flaregun blast jump state`
 ### `ID: 10082`
 - Value is additive
+
+- ## `crit type on blast jump state`
+### `ID: 10083`
+- Value is additive
+- Value is CritType (1 MiniCrits, 2 Full Crits)
