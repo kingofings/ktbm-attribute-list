@@ -438,3 +438,8 @@
 ### `ID: 10083`
 - Value is additive
 - Value is CritType (1 MiniCrits, 2 Full Crits)
+
+- ## `taunt attack lunchbox drink jump height`
+### `ID: 10084`
+- Value is percentage
+- ConVar: ktbm_tauntattack_lunchbox_drink_jump_height_duration
