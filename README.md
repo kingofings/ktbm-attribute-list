@@ -429,3 +429,7 @@
 ## `wearable health break rifle movespeed`
 ### `ID: 10081`
 - Value is percentage
+
+## `flaregun blast jump state`
+### `ID: 10082`
+- Value is additive
